@@ -1,3 +1,3 @@
 Git Stuff!!!
 React>angular
-making conflicts.
+Trying to create a merge conflict.
